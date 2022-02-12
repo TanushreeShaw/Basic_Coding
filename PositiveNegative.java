@@ -1,3 +1,4 @@
+//Write a program to find  number is  Positive or Negative .
 import java.util.*;
 public class PositiveNegative
 {
@@ -5,7 +6,6 @@ public class PositiveNegative
     {
         Scanner in=new Scanner(System.in);
         int num,i=0;
-
         do
         {
         System.out.println("Enter the value of num:");
