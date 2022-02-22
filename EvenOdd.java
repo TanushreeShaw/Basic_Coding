@@ -1,3 +1,4 @@
+//Write a Program to check whether a Number is Even or Odd.
 import java.util.*;
 
 public class EvenOdd 
