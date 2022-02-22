@@ -7,7 +7,6 @@ public static void main(String args[])
 {
     Scanner in=new Scanner(System.in);
     double num=0.0;
-
     do
     {
     System.out.println("Enter the value of num:");
