@@ -1,3 +1,14 @@
+/*
+Write a program to accept two integers and perform all the following operations on them-:
+Addition
+Subtraction
+Multiplication
+Division
+Modulus
+Power
+Square Root
+*/
+
 import java.util.*;
 public class AllOperations 
 {
